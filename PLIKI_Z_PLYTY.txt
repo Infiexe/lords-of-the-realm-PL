@@ -199,7 +199,6 @@ lords\vocs2\horse2.voc
 lords\vocs2\hrsewlk.voc
 lords\xmi\hwwin2.xmi
 lords\pl8\icons.pl8
-lords\vpx\impresio.vpx
 lords\pl8\info.pl8
 lords\vas\int1.vas
 lords\vas\int2.vas
@@ -303,9 +302,7 @@ lords\speech_n\n06.voc
 lords\speech_n\n07.voc
 lords\speech_n\n08.voc
 lords\speech_n\n09.voc
-lords\pl8\n_wshort.pl8
 lords\ab8\null0001.ab8
-lords\xmi\ortobtl1.xmi
 lords\pl8\overview.pl8
 lords\vpx\overview.vpx
 lords\speech_p\p01.voc
@@ -314,6 +311,7 @@ lords\vocs2\painmx5.voc
 lords\pl8\pan_autu.pl8
 lords\pl8\pan_spri.pl8
 lords\pl8\pan_summ.pl8
+lords\pl8\pan_wshort.pl8
 lords\ab8\peas0001.ab8
 lords\ab8\plag0001.ab8
 lords\pl8\pointers.pl8
@@ -378,6 +376,7 @@ lords\ab8\scalers.ab8
 lords\vpx\scroll.vpx
 lords\pl8\seasons.pl8
 lords\vocs2\sheepmx2.voc
+lords\xmi\shortobtl1.xmi
 lords\vocs2\shovel2s.voc
 lords\vas\sieg.vas
 lords\pl8\siege.pl8
