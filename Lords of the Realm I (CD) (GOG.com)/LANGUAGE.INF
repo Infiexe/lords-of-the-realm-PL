@@ -1,0 +1,84 @@
+[Ident]
+Title=Lords Of The Realm 1
+ShortTitle=Lords Of The Realm 1
+DirName=Lords1
+
+[Strings]
+SetupTitle=Setup Lords Of The Realm 1
+ProgManTitle=Lords Of The Realm 1
+SierraTitle=Sierra Setup
+UninstallTitle=Setup & Uninstall
+ReadmeTitle=ReadMe Lords Of The Realm 1
+ShortcutTitle=Lords Of The Realm 1
+ShortcutTitle2=Lords 1 - Battle Map Editor
+ManualTitle=Lords Of The Realm 1 On-Line Manual
+InstallDemo=Install Lords Of The Realm 1 Demos
+
+CopyDoneTitle = Copying Files
+CopyDonePrompt= Lords Of The Realm 1 installation is now complete. All files were successfully copied to your hard drive.
+
+DirectSetupTitle = Install Microsoft's DirectX3
+DirectSetupPrompt1 = Sierra Setup is now complete.  In order to run the Lords Of The Realm 1, you must install Microsoft's DirectX3 software and restart your computer. 
+DirectSetupPrompt2 = To install DirectX3 simply click on the Install Microsoft's DirectX3 shortcut in your Sierra program group.
+
+DirectXTitle = DirectX Installation
+DirectXText1 = WARNING!  The Sierra Setup program is about to install DirectX3 to your system.  Some Video Cards may require special drivers to run DirectX3 properly.  Please consult the README file for more information about the DirectX3 Installation.  Do you wish to continue with the DirectX3 Installation?
+YEStext=YES
+NOtext=NO
+
+OKPB=OK
+YESPB=Yes
+NOPB=No
+CancelPB=Cancel
+AcceptPB=Accept
+DeclinePB=Decline
+
+InstallSizeTitle=Installation Size
+INSTText1=You have a choice of installation size depending on your hard disk capacity and machine speed.  For the fastest game response, choose the maximum installation.  If you have limited hard disk space available, choose the minimum installation option. A medium or maximum install is required for Network play if 2 people are using 1 CD
+INSTNullText=
+
+RBSmallInstall=Minimum Install  (34 MBytes)
+RBMedInstall=Medium Install   (49 MBytes)
+RBMaxInstall=Maximum Install  (101 MBytes)
+
+Diablo = Diablo Demo
+
+DebugTitle=DEBUG ONLY!!!
+DbgMinInstall=Verify Minimum installation selected.
+DbgMedInstall=Verify Maximum installation selected.
+DbgMaxInstall=Verify Maximum installation selected.
+
+DbgNotOnWin95=Setup has detected that you are not running Windows 95.
+
+
+Installation Complete=Installation Complete
+
+RestartTitle=Installation Complete
+RestartPrompt1=Impressions Lords 1 has been successfully installed.
+RestartPrompt2=Windows must be restarted before you can play.
+RestartNow=Restart now
+RestartLater=Restart later
+
+AllDoneTitle=Installation Complete
+AllDoneText=Remember to restart Windows before playing.
+
+Win32s=Install Win32s
+WinG=Install Windows graphics library (WinG)
+
+FailTitle=Sierra Setup - Installation Failure
+FailTextWinG=An error occured while installing WinG.  Installation is incomplete.
+
+RegisterTitle=Register Lords 1
+RegisterText1=Do you want to register your program now?
+
+AlldoneText=Remember to restart ...
+
+NotifyInstTitle=Check Current Environment
+NotifySysText=Setup will now check your current configuration for necessary system extensions.  If an extension is not found, Setup will install it by running its installation program.  Please choose the default option in any dialog boxes that are displayed.
+
+ICThreshShortcutTitle=Set Microphone Threshold
+
+DiskWarnTitle=
+WinDiskWarnText1=You do not have enough disk space on your Windows drive for this installation.  Please free up some disk space and re-install the game.
+DestDiskWarnText1=You do not have enough disk space on your destination drive for this installation.  Please free up some disk space and re-install the game.
+

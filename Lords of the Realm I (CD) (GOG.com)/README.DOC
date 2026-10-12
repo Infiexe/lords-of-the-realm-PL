@@ -1,0 +1,323 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;
+\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\nowidctlpar\widctlpar\adjustright \fs20\cgrid \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}{\s15\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid \sbasedon0 \snext15 Plain Text;}{\s16\sa120\nowidctlpar\widctlpar\adjustright \fs20\cgrid 
+\sbasedon0 \snext16 Body Text;}}{\info{\title LORDS OF THE REALM Additional Notes -- October 12, 1994}{\author Eric Ouellete}{\operator Eric Ouellete}{\creatim\yr1997\mo9\dy18\hr1\min8}{\revtim\yr1997\mo9\dy29\hr4\min3}{\version7}{\edmins32}{\nofpages7}
+{\nofwords2090}{\nofchars11915}{\*\company Impressions}{\nofcharsws0}{\vern71}}\margl1319\margr1319 \widowctrl\ftnbj\aenddoc\hyphcaps0\formshade\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\endnhere\sectdefaultcl {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \qc\nowidctlpar\tx3690\adjustright \fs20\cgrid {\b\f1\fs24\cgrid0 LORDS OF THE REALM 1 }{\f1\fs24\cgrid0 
+\par }{\f1\cgrid0 Version 1.04
+\par Readme File
+\par September 23, 1997
+\par }\pard \nowidctlpar\tx3690\adjustright {\f1\cgrid0 
+\par ***********************************************************************
+\par About This Document:
+\par 
+\par Thank you for purchasing Lords of the Realm 1
+\par 
+\par This document contains last-minute information about Lords of the Realm 1 and other information about the program not found in the Help Files.  This README file includes information that 
+pertains to general problems and questions you may have concerning this software or your computer. Should you experience any problems with Lords of the Realm 1, please refer to this file for addition help on answering questions about the game and solving 
+technical difficulties.
+\par 
+\par ***********************************************************************
+\par 
+\par }{\b\f1\fs24\cgrid0 TABLE OF CONTENTS
+\par }{\f1\cgrid0 
+\par }\pard \nowidctlpar\tx360\tx3690\adjustright {\f1\cgrid0 I.\tab MINIMUM REQUIREMENTS
+\par II.\tab GENERAL TECHNICAL ISSUES
+\par III.\tab GENERAL GAME ISSUES
+\par IV.\tab CONTACTING SIERRA
+\par }\pard \nowidctlpar\tx270\tx1710\tx3690\adjustright {\f1\cgrid0 \tab                
+\par }\pard \nowidctlpar\tx3690\adjustright {\f1\cgrid0 -----------------------
+\par 
+\par }{\b\f1\cgrid0 
+\par }{\b\f1\fs24\cgrid0 I. MINIMUM REQUIREMENTS
+\par }{\f1\cgrid0 
+\par 486DX/2-66
+\par 8 MB RAM
+\par 2X CD-ROM DRIVE
+\par LOCAL BUS VIDEO
+\par SVGA 640 x 480 x 256 colors
+\par 2 MB Hard Disk space
+\par Windows compatible sound card
+\par Mouse
+\par 
+\par }{\b\f1\cgrid0 RECOMMENDED REQUIREMENTS
+\par 
+\par }{\f1\cgrid0 Pentium 75 or better
+\par 8 MB RAM
+\par 4X CD-ROM Drive 
+\par 
+\par -----------------------
+\par 
+\par 
+\par }{\b\f1\fs24\cgrid0 II. GENERAL TECHNICAL ISSUES
+\par }{\f1\cgrid0 
+\par }{\b\f1\cgrid0 INSTALLATION PROCEDURES 
+\par 
+\par }{\f1\cgrid0 If you are using file deletion tracking utilities such as Mirror, SmartCan, Undelete, etc., please disable these utilities before installing Lords of the Realm 1.
+\par 
+\par 1) Turn on your computer
+\par 2) Wait until the system has come into Windows and has finished loading
+\par 3) Open the CD ROM tray door
+\par 4) Insert the Lords of the Realm 1  CD ROM
+\par 5) Close the door
+\par 6) Autoplay should automatically bring up a screen which prompts you to install the game
+\par 7) Click on the button that says INSTALL
+\par 8) The installation program should guide you through the rest of the process
+\par 
+\par FYI - If Autoplay is disabled on your computer, 
+place the Lords  CD-ROM in the CD-ROM tray and close the door.  Right-click on the CD ROM drive icon inside My Computer (which you may have renamed) and chose "Open".  There will be a number of files and folders visible inside the Lords of the Realm 1  wi
+ndows that appears.  Find the icon that is labeled "Setup" and double click on it.  This will launch the Sierra installation program.
+\par 
+\par 
+\par }{\b\f1\cgrid0 WINDOWS PROBLEMS and SOLUTIONS}{\f1\cgrid0 
+\par 
+\par Windows95 requires some space for virtual memory.  If your hard drive is full, Windows ma
+y not have enough room to operate properly.  To check how much hard drive space you have free, double click on "My Computer" on your Desktop and right-click on the drive Windows is running from (usually your C Drive).  Select "Properties" and make sure th
+at your Free Space is at least 5,000,000 Bytes (5 MegaBytes).
+\par 
+\par }{\b\f1\fs24\cgrid0 III. GENERAL GAME ISSUES
+\par }\pard\plain \s15\nowidctlpar\widctlpar\tx6750\adjustright \f2\fs20\cgrid {\b\f1 MODEM PLAY NOTE
+\par }\pard\plain \nowidctlpar\tx3690\adjustright \fs20\cgrid {\f1 Lords of the Realm 1 was originally written to be a DOS application.  Unfortunately Modem play could not be included in this version of Lords of the Realm 1}{\b\f1\cgrid0 
+\par }{\f1\cgrid0 
+\par }{\b\f1\cgrid0 MANUAL CORRECTIONS
+\par 
+\par }{\f1\cgrid0 The hot key for the left mouse button is the F1 Key not the Semi-Colon key as stated in the manual.
+\par }{\b\f1\cgrid0 
+\par }\pard\plain \s15\nowidctlpar\widctlpar\tx6750\adjustright \f2\fs20\cgrid {\f1\ul An Explanation of Stewardship
+\par }{\f1 As explained in the technical supplement, your steward will offer to manage the labor allocations for your fields once  you control three counties.  At the start of each season, he will reallocate the w
+orkers you have assigned to grain, sheep, cattle, fields and idle to complete the farming tasks 
+\par as best as he can.  He provides a report which indicates which counties require more farmers, and which have too many.
+\par 
+\par (In addition to this, he now also indicates when the ration  allocations in a county have changed.  This warns you of  food shortages so that you can respond to them.)
+\par 
+\par It's important to remember that the steward's purpose is NOT to let you ignore your counties while you conquer the enemy  -- h
+e will not reclaim fields for you, and you will still  need to manage your castle building and production.  And he  does not act on the warnings he gives you; you must decide on a course of action whenever you have labor excesses, 
+\par  abor shortages, or ration changes. 
+\par 
+\par }{\f1\ul Starting Location
+\par }{\f1 Players always start in one of six locations on the map; the  county you start with will have a strong effect on how your  kingdom will progress.  For example, starting in a central  county provides more borders through whic
+h you may receive  immigrants (or invaders).  Alternatively, the southwestern- most county gets harsher weather overall than others, and  has only one county for immigrants.
+\par 
+\par }{\f1\ul Ale Limitations
+\par }{\f1 Ale can only be purchased once per county per season.  Its  benefit is also limited to +3 happiness per purchase.  The  Buy Ale panel displays the expected happiness boost for  whatever amount you select.
+\par 
+\par Ale is consumed immediately upon purchase; as such, it  cannot be transported like other goods.
+\par 
+\par }{\f1\ul Merchant Delays
+\par }{\f1 At harder levels, the appearance of mercenaries may be  delayed.  Expect at least one new merchant to enter the game  each season (until all twelve are present).
+\par 
+\par }{\f1\ul Castle-Building / Deducting Resources
+\par }{\f1 Stone and wood are allocated to castles at the end of a  season (not immediately).  Therefore, if you buy stone or  wood, don't expect to see it deducted (and placed in your  castle) right away.
+\par 
+\par }{\f1\ul Army Discontent
+\par }{\f1 The likelihood of an army to mutiny (i.e. turn into outlaws)  is indicated by a descriptive phrase showing their 
+\par discontent.  This phrase appears on the Army panel (when you  click on an army), and on the first screen you see when  starting a siege.
+\par 
+\par Discontent is based on the army's morale, health, and the  types of units in it.
+\par 
+\par }{\f1\ul Army Movement Limitations
+\par }{\f1 You are not allowed to stand on top of an army or castle  while attacking another army or castle.  Therefore, if you  move to attack an item, and your movement path passes  through another
+ obstacle just before reaching that item, the  attack will be disallowed.
+\par 
+\par }{\f1\ul Mercenary armies
+\par }{\f1 Unlike other armies, an army made up only of mercenaries can  disband in any county.
+\par 
+\par }{\f1\ul Aiming Ladders, Towers and Fighters
+\par }{\f1 When sieging, you should always aim a ladder or siege tower  at its target BEFORE you aim infantry at it.
+\par 
+\par Secondly, you can only aim one fighter-unit at each ladder  or siege tower.
+\par 
+\par Finally, you can aim ladders and siege towers at structures  of any height; however, they are only effective against the  heights stated in the manual (i.e. any other attacks are  considered "long shots").
+\par 
+\par }{\f1\ul Picking up Siege Weapons and Fighters
+\par }{\f1 If you can't pick up fighters or weapons from the "holding  area" in the top-left corner of the screen, it is because  you have another command currently selected.  Right-click  the mouse to cancel the command.
+\par 
+\par }{\f1\ul Battering Rams
+\par }\pard\plain \s16\sa120\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\f1 Battering rams are only effective at attacking either gatehouses and keeps.
+\par }\pard\plain \s15\nowidctlpar\widctlpar\tx6750\adjustright \f2\fs20\cgrid {\f1 
+\par }{\f1\ul Eviction and Castles
+\par }{\f1 Neutral counties never maintain castles.  Whenever you are  evicted from a county, any castle you have built there will  be demolished.
+\par 
+\par }{\f1\ul Additional Manual Credits
+\par }{\f1 Jeffrey Fiske was not listed in the manual as a Game Tester.
+\par }\pard \s15\nowidctlpar\widctlpar\adjustright {\f1 
+\par }\pard\plain \nowidctlpar\tx3690\adjustright \fs20\cgrid {\b\f1\cgrid0 IV. CONTACTING SIERRA
+\par }{\f1\cgrid0 
+\par 
+\par }{\b\f1\cgrid0 Sales Services
+\par 
+\par United States
+\par }{\f1\cgrid0 Sierra Direct \tab U.S.A. Sales Phone: (800) 757-7707
+\par 7100 W. Center Rd\tab International Sales: (206) 746-5771 
+\par STE 301\tab Hours: Monday-Saturday 7AM to 11 PM CST,
+\par Omaha, NE  68106\tab Sundays 8AM to 9PM 
+\par 
+\par If you experience any technical problems, our Technical Support Team will be more than happy to assist you.  Please call (206) 644-4343 between 8:15 a.m. and 4:45 p.m., Pacific Standard Time, Monday through Friday.  We can be reached by Fax at (
+206) 644-7697, or by mail at the following address:
+\par 
+\par }{\b\f1\cgrid0 U.S. Technical Support
+\par }{\f1\cgrid0 Sierra On-Line\tab Phone: (206) 644-4343
+\par Technical Support\tab Monday - Friday, 8:15 a.m.-4:45 p.m. PST 
+\par P.O. Box 85006\tab Fax: (206) 644-7697
+\par Bellevue, WA 98015-8506 
+\par 
+\par Sierra On-Line offers a 24-hour Automated Technical Support line with recorded answers to the most frequently asked technical questions. To access this service, call (206) 644-4343, and follow the recorded instructions to find your specific topic and reso
+lve the issue. If this fails to solve your problem, you may still write, or fax us with your questions, or contact us via BBS.
+\par 
+\par 
+\par }{\b\f1\cgrid0 U.K. Technical Support
+\par }{\f1\cgrid0 Sierra On-Line Limited\tab Phone: (0118) 920-9111
+\par 2 Beacontree Plaza\tab Monday - Friday, 9:00 a.m. - 5:00 p.m.
+\par Gillette Way\tab Fax:  (0118) 987-5603
+\par Reading, Berkshire 
+\par RG2 0BS United Kingdom
+\par 
+\par (Disk/CD replacements in the U.K. are \'a36.00, or \'a37.00 outside the UK.) 
+\par Add "ATTN.: Returns."
+\par 
+\par }{\b\f1\cgrid0 France
+\par }{\f1\cgrid0 Parc Tertiaire de Meudon\tab T\'e9l\'e9phone: 01-46-01-46-50
+\par Immeuble "Le Newton"\tab Support Technique automatis\'e9 7 jours sur 7 24h/24
+\par 25 rue Jeanne Braconnier\tab Techniciens accessibles du Lundi au Vendredi 
+\par 92366 Meudon La For\'eat Cedex\tab de 10h \'e0 19h
+\par France\tab Fax: 01-46-30-00-65
+\par 
+\par }{\b\f1\cgrid0 Germany
+\par }{\f1\cgrid0 Sierra Coktel Deutschland\tab Phone: (0610) 399-4040
+\par Robert-Bosh-Str. 32\tab Montag bis Freitag von 9Uhr - 19Uhr 
+\par D-63303 Dreieich\tab Fax: (0610) 399-4035
+\par Deutschland\tab Mailbox: (0610) 399-4041
+\par 
+\par }{\b\f1\cgrid0 Spain
+\par }{\f1\cgrid0 Coktel Educative Multimedia\tab Tel\'e9fono: (01) 383-2623
+\par Avenida de Burgos 9\tab Lunes a Viernes de 9h30 a 14h y de 15h a 18h30
+\par 1\'ba-OF2\tab Fax: (01) 381-2437
+\par 28036 Madrid  Spain
+\par 
+\par }{\b\f1\cgrid0 Italy
+\par }{\f1\cgrid0 Contattare il vostro distribotore
+\par 
+\par }{\b\f1\cgrid0 Technical Support via modem is also available through:
+\par }{\f1\cgrid0 CompuServe USA: \tab GO SIERRA
+\par CompuServe United Kingdom: \tab GO UKSIERRA
+\par CompuServe France: \tab GO FRSIERRACompuServe 
+\par Germany: \tab GO DESIERRA
+\par America Online USA:\tab Keyword Sierra
+\par Email USA: \tab support@sierra.com
+\par Internet USA: \tab http://www.sierra.com
+\par Internet United Kingdom:\tab http://www.sierra-online.co.uk
+\par Internet France:\tab http://www.sierra.fr
+\par Internet Germany:\tab http://www.sierra.de
+\par 
+\par ------------------------
+\par 
+\par }{\b\f1\cgrid0 DISK/DOCO REPLACEMENT:\tab PRODUCT RETURNS:
+\par }{\f1\cgrid0 Sierra On-Line Fulfillment\tab Sierra On-Line Returns
+\par PO Box 485\tab PO Box 485
+\par Coarsegold, CA  93614\tab Coarsegold, CA  93614
+\par 
+\par NOTE: To replace your disk(s) please send only Disk #1 (or the CD) and copy of your dated Receipt, if less then 90 days.  After 90 days please include a $10 handling fee along with Disk / CD #1.  For Documentation, please include a $5.00 handling fee and 
+a photocopy ONLY of disk #1.  Payment should be made at the time of your request.  Sorry, no credit cards.
+\par 
+\par }{\b\f1\cgrid0 United Kingdom}{\f1\cgrid0 
+\par Sierra On-Line Limited\tab Main: (0118) 920-9111
+\par 2 Beacontree Plaza\tab Monday - Friday, 9:00 a.m. - 5:00 p.m.
+\par Gillette Way\tab Fax:  (0118) 987-5603
+\par Reading, Berkshire 
+\par RG2 0BS United Kingdom
+\par 
+\par (Disk/CD replacements in the U.K. are \'a36.00, or \'a37.00 outside the UK.)
+\par Add "ATTN.: Returns."
+\par 
+\par }{\b\f1\cgrid0 France}{\f1\cgrid0 
+\par Parc Tertiaire de Meudon\tab T\'e9l\'e9phone: (01) 46-01-48-53
+\par Immeuble "Le Newton"\tab Lundi au Vendredi de 9h \'e0 18h 
+\par 25 rue Jeanne Braconnier\tab Fax: (01) 46-30-00-65
+\par 92366 Meudon La For\'eat Cedex 
+\par France
+\par 
+\par }{\b\f1\cgrid0 Germany}{\f1\cgrid0 
+\par Sierra Coktel Deutschland \tab Tel.: (0) 6103-99-40-40
+\par Robert-Bosh-Str. 32\tab Montag bis Freitag von 9Uhr - 19Uhr 
+\par D-63303 Dreieich\tab Fax: (0) 6103-99-40-35
+\par Deutschland
+\par 
+\par }{\b\f1\cgrid0 On-Line Sales}{\f1\cgrid0 
+\par CompuServe USA:\tab GO SI (CServe Mall)
+\par CompuServe United Kingdom:\tab GO UKSIERRA
+\par CompuServe France:\tab GO FRSIERRA
+\par CompuServe Germany:\tab GO DESIERRA
+\par America Online:\tab Keyword Sierra
+\par Internet:                      \tab http://www.sierra.com
+\par Internet:                      \tab http://www.sierra-online.co.uk
+\par Internet:                      \tab http://www.sierra.fr
+\par Internet:                      \tab http://www.sierra.de
+\par 
+\par ------------------------
+\par 
+\par }{\b\f1\cgrid0 U.S. Hints:
+\par }{\f1\cgrid0 1-900-370-5583$.75 per minute (must be 18 years or older, or have parental permission).
+\par You may also contact Direct Sales to inquire whether a hint book is available for your product.
+\par 
+\par }{\b\f1\cgrid0 On-Line Hints:
+\par }{\f1\cgrid0 Access Sierra's BBS through CompuServe by typing GO SIERRA
+\par Access the Sierra Forum on America On Line with the keyword: SIERRA
+\par 
+\par }{\b\f1\cgrid0 Hint Line, Canada:
+\par }{\f1\cgrid0 1-900-451-3356
+\par 
+\par }{\b\f1\cgrid0 Hint Line, France:
+\par }{\f1\cgrid0 08-36-68-46-50 (hint line)
+\par 2,23F TTC la minute; tariff en vigueur au 1 juillet 1996. (France m\'e9tropolitaine seulement)
+\par 
+\par }{\b\f1\cgrid0 Hint Line, United Kingdom:
+\par }{\f1\cgrid0 Old Games Hint Line}{\f1\lang1024\cgrid0 :  (}{\f1\cgrid0 0118) 920-9109
+\par New Programs hint line:  (0891) 660-660 (within the UK only)
+\par 
+\par }{\b\f1\cgrid0 New Sierra Hint Line:
+\par }{\f1\cgrid0 For adventure programs released after January 1st, 1993.  Charged 50p/minute at all times.  Maximum call length 7.5 minutes.  Maximum charge is \'a33.75.  Must have permission
+ of the person who pays the phone bill before calling. Line available in the UK only. Requires a touch tone phone.
+\par 
+\par }{\b\f1\cgrid0 Old Sierra Hint Line:
+\par }{\f1\cgrid0 For adventure games released up to December 31st, 1992.  Calls are charged at normal telephone rates. Requires a touch tone phone, 24 hour line.
+\par 
+\par }{\b\f1\cgrid0 Hint Line, Deutschland:
+\par }{\f1\cgrid0 0190 - 515 616 (hint line)
+\par Kosten: 1,20 DM pro Minute (Nur in Deutschland verf\'fcgbar) 24Std. /Tag 
+\par 
+\par }{\b\f1\cgrid0 Hint Line, Italy:
+\par }{\f1\cgrid0 Contattare il vostro distribotore
+\par 
+\par }{\b\f1\cgrid0 Hint Line, Spain:
+\par }{\f1\cgrid0 Coktel Educative Multimedia\tab Tel\'e9fono: (01) 383-2623
+\par Avenida de Burgos 9\tab Lunes a Viernes de 9h30 a 14h y de 15h a 18h30 
+\par 1\'ba-OF2\tab  \tab \tab \tab  
+\par 28036 Madrid,  Spain
+\par 
+\par ------------------------
+\par 
+\par 
+\par }\pard \nowidctlpar\adjustright {\f1\cgrid0 SIERRA ON-LINE, INC. DOES NOT WARRANTY OR PROMISE THAT THE INFORMATION HEREIN WILL WORK WITH ANY OR ALL COMP
+UTER SYSTEMS.  SIERRA DOES NOT ASSUME ANY LIABILITY, EITHER INCIDENTAL OR CONSEQUENTIAL, FOR THE USE OF THE INFORMATION HEREIN, INCLUDING ANY AND ALL DAMAGE TO OR LOST USE OF COMPUTER HARDWARE OR SOFTWARE PRODUCTS, LOSS OF WARRANTIES, OR LOST DATA BY THE 
+C
+USTOMER OR ANY THIRD PARTY.  NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SIERRA, ITS EMPLOYEES, DISTRIBUTORS, DEALER OR AGENTS SHALL CHANGE THE RESTRICTION OF LIABILITY OR CREATE ANY NEW WARRANTIES.  IN NO CASE SHALL SIERRA'S LIABILITY EXCEED THE PU
+RCHASE PRICE OF THE SIERRA SOFTWARE PRODUCT.
+\par 
+\par ------------------------
+\par 
+\par }{\b\f1\cgrid0 MICROSOFT SDK 
+\par }{\f1\cgrid0 The Redistributable Code is the property of Microsoft Corporation and its suppliers and is protected by copyright law and international treaty provisions.  You
+ are authorized to make and use copies of the Redistributable Code either as part of the application in which you received the Redistributable Code, or in conjunction with the application for which its use is intended.  Except as expressly provided in the
+ 
+foregoing sentence, you are not authorized to reproduce and distribute the Redistributable Code.  Microsoft reserves all rights not expressly granted.  You may not reverse engineer, decompile, or disassemble the Redistributable Code, except and only to th
+e
+ extent that such activity is expressly permitted by applicable law notwithstanding this imitation.  THE REDISTRIBUTABLE CODE IS PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARR
+A
+NTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.  YOU ASSUME THE ENTIRE RISK AS TO THE ACCURACY AND THE USE OF THE REDISTRIBUTABLE CODE.  MICROSOFT SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO U
+SE THE REDISTRIBUTABLE CODE, EVEN IF MICROSOFT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+\par 
+\par }\pard\plain \s15\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {
+\par }}
