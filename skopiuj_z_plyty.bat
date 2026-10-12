@@ -1,8 +1,10 @@
 @echo off
-rem Kopiuje dane gry z plyty (lub jej kopii) do katalogu gry, tak aby
-rem gra dzialala bez plyty. Uzycie:
+rem Kopiuje dane gry z plyty (lub jej kopii) do podkatalogu lords w katalogu
+rem gry, tak aby gra dzialala bez plyty. Uzycie:
 rem   skopiuj_z_plyty.bat            - szuka kopii plyty w D:\Plytka
 rem   skopiuj_z_plyty.bat E:\        - dowolne inne miejsce (np. napad CD)
+rem Dane moga lezec w katalogu glownym plyty (AB8, PL8, SPEECH_A, ...)
+rem albo w jej podkatalogu lords.
 setlocal
 cd /d "%~dp0"
 
@@ -13,13 +15,23 @@ if "%SRC%"=="" (
   echo   skopiuj_z_plyty.bat E:\
   goto :end
 )
-if not exist "%SRC%\lords\conquest.map" (
-  echo W "%SRC%" nie ma katalogu lords z plyty ^(brak lords\conquest.map^).
+if "%SRC:~-1%"=="\" set "SRC=%SRC:~0,-1%"
+
+set "BASE="
+if exist "%SRC%\PL8\" set "BASE=%SRC%"
+if exist "%SRC%\lords\PL8\" set "BASE=%SRC%\lords"
+if "%BASE%"=="" (
+  echo W "%SRC%" nie ma danych gry ^(brak katalogu PL8 ani lords\PL8^).
   goto :end
 )
 
-echo Kopiowanie "%SRC%\lords" do "%~dp0lords" ...
-xcopy "%SRC%\lords" "%~dp0lords\" /E /I /Y /Q
+echo Kopiowanie danych z "%BASE%" do "%~dp0lords" ...
+for %%s in (AB8 PL8 VAS VOCS1 VOCS2 VPX XM2 XMI) do (
+  if exist "%BASE%\%%s\" xcopy "%BASE%\%%s" "%~dp0lords\%%s\" /E /I /Y /Q >nul
+)
+for /d %%s in ("%BASE%\SPEECH_*") do (
+  xcopy "%%s" "%~dp0lords\%%~nxs\" /E /I /Y /Q >nul
+)
 attrib -R "%~dp0lords\*" /S /D >nul
 
 echo.
